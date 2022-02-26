@@ -1,0 +1,396 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A faire in Spittle Fields, where all the knick knacks of astrology are exposed to open sale, to all that will see for their love; and buy for their money. Where, first Mr. William Lilley presents you with his pack, wherein he hath to sell. 1. The introduction, 2. Nativities caluclated, 3. The great ephimeredies, 4. Monarchy, or no monarchy 5. The caracture of K. Charles, 6. Annus Tenebrosus. Second, Nicholas Culpeper, brings under his veluet jacket. 1. His chalinges against the docttors [sic] of phuisick, [sic] 2. A pocket medicine, 3. An almanack, &amp; conjuring circle, Third Mr. Bowker unlocked his pack, wherein is, 1. The 12. signes of the zodiack 2. The 12. houses, 3. The 7. planets, 4. The yeares predictions, and the starry globe. Written by J.B. Gent. ...</title>
+            <author>J. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76067</idno>
+            <idno type="STC">Wing B101</idno>
+            <idno type="STC">Thomason E662_1</idno>
+            <idno type="STC">ESTC R206781</idno>
+            <idno type="EEBO-CITATION">99865887</idno>
+            <idno type="PROQUEST">99865887</idno>
+            <idno type="VID">118140</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76067)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118140)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 102:E662[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A faire in Spittle Fields, where all the knick knacks of astrology are exposed to open sale, to all that will see for their love; and buy for their money. Where, first Mr. William Lilley presents you with his pack, wherein he hath to sell. 1. The introduction, 2. Nativities caluclated, 3. The great ephimeredies, 4. Monarchy, or no monarchy 5. The caracture of K. Charles, 6. Annus Tenebrosus. Second, Nicholas Culpeper, brings under his veluet jacket. 1. His chalinges against the docttors [sic] of phuisick, [sic] 2. A pocket medicine, 3. An almanack, &amp; conjuring circle, Third Mr. Bowker unlocked his pack, wherein is, 1. The 12. signes of the zodiack 2. The 12. houses, 3. The 7. planets, 4. The yeares predictions, and the starry globe. Written by J.B. Gent. ...</title>
+                  <author>J. B.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.C. in the yeare,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill. 28".</note>
+                  <note>A satire, in verse, on astrologers.</note>
+                  <note>Thomason catalogue.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bowker, James, fl. 1668-1684.</term>
+               <term>Lilly, William, 1602-1681.</term>
+               <term>Culpeper, Nicholas, 1616-1654.</term>
+               <term>Astrology --  Humor --  Early works to 1800.</term>
+               <term>Satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118140:1" rendition="simple:additions"/>
+            <p>A FAIRE IN Spittle Fields, where all the Knick Knacks of ASTROLOGY Are Expoſed to open ſale, to all that will ſee for their Love, and buy for their Money.</p>
+            <p>WHERE,
+<list>
+                  <item>Firſt Mr. WILLIAM LILLEY preſents you with his pack, wherein he hath to ſell.
+<list>
+                        <item>1. The Introduction,</item>
+                        <item>2. Nativities Calculated,</item>
+                        <item>3. The great Ephimeredies,</item>
+                        <item>4. Monarchy, or no Monarchy</item>
+                        <item>5. The Caracture of K. Charles,</item>
+                        <item>6. Annus Tenebroſus.</item>
+                     </list>
+                  </item>
+                  <item>Second, NICHOLAS CULPE<g ref="char:EOLhyphen"/>PER, brings under his Veluet Jacket.
+<list>
+                        <item>1. His Chalinges againſt the Docttors of Phuiſick,</item>
+                        <item>2. A Pocket Medicine,</item>
+                        <item>3. An Almanack, &amp; Conjuring Circle,</item>
+                     </list>
+                  </item>
+                  <item>Third Mr. Bowker unlocked his Pack, wherein is,
+<list>
+                        <item>1. The 12. ſignes of the Zodiack</item>
+                        <item>2. The 12. Houſes,</item>
+                        <item>3. The 7. Planets,</item>
+                        <item>4. The yeares predictions, and the Starry Globe,</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>Written by J. B. Gent. And Printed by <hi>J. C.</hi> In the Yeare 1652</p>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:118140:2"/>
+            <head>The Prologue,</head>
+            <l>IN greener Studdies, much <hi>I</hi> have admir'd</l>
+            <l>The Muſes rare inventions; and deſir'd</l>
+            <l>For recreation of't; to play upon</l>
+            <l>The flwory banckes, of ſugred <hi>Helicon</hi>
+            </l>
+            <l>And vent'ring firſt, to tread the fatall ſtage</l>
+            <l>Of <hi>Love,</hi> had fancy for my Equipage.</l>
+            <l>Where having traverſt, with but ſmall ſucceſſe</l>
+            <l>The boundleſſe bounds, of that vaſt wilderneſſe.</l>
+            <l>I found my ſlagging winges, would ſoone betray</l>
+            <l>My judgment to a <hi>Nonplus:</hi> Since the prey</l>
+            <l>I aim'd at; ſoar'd abave my reach, and then</l>
+            <l>Reſolv'd to ceaſe, I layd aſide my penne:</l>
+            <l>Which for ſom years repoſe her drowſie head</l>
+            <l>In Sylence lap; until awakned</l>
+            <l>By frinds intreaties, who would needs goe try</l>
+            <l>To raiſe her, from this ſlumbring Mallady</l>
+            <l>Vrg'd by perſwaſions and diſturb'd from reſt;</l>
+            <l>Suddenly rouſ'd, obſequiouſly adreſt</l>
+            <l>Her Morning wings, to ſlit the ayre, and ſoare</l>
+            <l>A higher pitch, then ſhee had don before</l>
+            <l>And in even Numbers, then with equall care</l>
+            <l>She writ this New—found <hi>Aſtrologicke</hi> faire:</l>
+            <l>To ſhew, the hairbrain'd world, how mad they be</l>
+            <l>In courting, this Ambiguous foolery.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:118140:2"/>
+            <head>A FAIRE in Spittle Fields, where the Aſtrologers Knavery, is expoſed to the view. and their <hi>Trinkets</hi> to all that will ſee for their Love, and buy for their Money.</head>
+            <lg>
+               <l>UPon a time, whoſe date hath unaware</l>
+               <l>Slip't my remembrance; the <hi>Aſtrologers,</hi>
+               </l>
+               <l>Began to prate, as if the world ſhould ſee</l>
+               <l>Some ſudden change, or great <hi>Cataſtrophy.</hi>
+               </l>
+               <l>Each Libel ſpoke a great <hi>Eclips</hi> to come,</l>
+               <l>The <hi>Scourge</hi> of <hi>Europe,</hi> and the fall of <hi>Rome;</hi>
+               </l>
+               <l>The amazement of ſpectators, great affright,</l>
+               <l>Terrour of Mortals, and a day like night.</l>
+               <l>Yea, ſome preſum'd to ſay the <hi>Eclips</hi> would be</l>
+               <l>So wonderful as that obſcurity</l>
+               <l>Which ſpread earth's ſuperficies, and befel,</l>
+               <l>At the <hi>Jews</hi> ſlaughtering of <hi>Emanuel.</hi>
+               </l>
+               <l>
+                  <pb n="4" facs="tcp:118140:3"/>Theſe and the like things being publiſhed</l>
+               <l>Abroad in Pamphlets, many minds were led</l>
+               <l>To ſtrang conceits, thinking each day a year,</l>
+               <l>Till the long-look't for <hi>Munday</hi> ſhould appear.</l>
+               <l>But he that makes the drooping ſpirits glad,</l>
+               <l>That fruſterats <hi>Tokens,</hi> makes <hi>Diviners</hi> mad,</l>
+               <l>Whoſe mighty wiſdom ruleth all things made</l>
+               <l>The <hi>Sun</hi> ſhine glorious, no <hi>Cimmerian</hi> ſhade,</l>
+               <l>Made dark our dwellings; their predictions fail'd;</l>
+               <l>Their <hi>Tales</hi> prov'd fables, and the People rail'd</l>
+               <l>Againſt theſe <hi>Jugglers,</hi> whoſe prevarications</l>
+               <l>Had filld their minds with ſuch vain expectations;</l>
+               <l>Th' Aſtrologe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, perceiving it would try,</l>
+               <l>In one poore day to vent their <hi>Foolery.</hi>
+               </l>
+               <l>Wherefore reſolve to conſtitute a <hi>Faire,</hi>
+               </l>
+               <l>In <hi>Spittle-Fields,</hi> expoſing each mans ware</l>
+               <l>To publick view; and 'ere a full decay,</l>
+               <l>Having once ſould their <hi>Trinkets,</hi> poſt away.</l>
+               <l>The time being now at hand, that haſty <hi>Sun</hi>
+               </l>
+               <l>Which lately ſcorch'd their credit had begun,</l>
+               <l>His daily courſe; when loe, a Cryer ſtands</l>
+               <l>Vttering with lowd voice, and erected hands</l>
+               <l>(Indeed his hands were lifted up on High,</l>
+               <l>Becauſe the matter much concern'd the Skie.)</l>
+            </lg>
+            <q>
+               <l>
+                  <hi>O yes, will will any buy,</hi>
+               </l>
+               <l>
+                  <hi>The knick-knacks of</hi> Aſtrology.</l>
+               <l>
+                  <hi>Quircks and Quillets, ſuch like things</hi>
+               </l>
+               <l>
+                  <hi>Rare inventions, waxen wings,</hi>
+               </l>
+            </q>
+            <lg>
+               <pb n="5" facs="tcp:118140:3"/>
+               <l>To ſoar above let them repair.</l>
+               <l>And purchaſe what they want in <hi>Spittle Fair</hi>
+               </l>
+               <l>No ſooner had he thus divulg'd this Note,</l>
+               <l>Through the wide cranney of his hollow throat,</l>
+               <l>But every Pedler furniſhed his Stall,</l>
+               <l>With prity whimſies to be ſold; though all,</l>
+               <l>Demuri'd a while, and fix't their eyes upon,</l>
+               <l>Their Captain General, who thus begun;</l>
+               <l>Good People,</l>
+               <l>Stand not amaz'd at this unuſual Fair,</l>
+               <l>'Tis our Preſervative againſt Diſpair.</l>
+               <l>And which muſt ſecure us by and by</l>
+               <l>From the ſwift vengeance of a <hi>Hue</hi> and <hi>Cry.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Come then before the loweſt of my fall,</l>
+               <l>And buy theſe writings <hi>Aſtrologicall.</hi>
+               </l>
+               <l>Loe her's an <hi>Introduction,</hi> 'tis as rare,</l>
+               <l>A peece as ever breath'd <hi>Celeſtial</hi> Aire.</l>
+               <l>By it are Queſtions of all ſizes ſtated</l>
+               <l>By it <hi>Nativeties</hi> are Calculated.</l>
+               <l>The <hi>Delphick God</hi> ne're did ſuch tricks as theſe.</l>
+               <l>It is the worlds great <hi>Ephimerides.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Alſo, I have a Libel that wil ſhow</l>
+               <l>Whether we ſhall have <hi>Monarchy</hi> or no.</l>
+               <l>And at the end whereof there is prefixt</l>
+               <l>
+                  <hi>Rats, Dragons, Lions,</hi> with a thouſand tricks.</l>
+               <l>To pleaſe mens fancys, news of peace and ſtrife</l>
+               <l>Beſides <hi>King Charles</hi> his Character and life.</l>
+               <l>He'rs <hi>Anus Teneborus;</hi> buy it will yee</l>
+               <l>
+                  <pb n="6" facs="tcp:118140:4"/>Tis a rare piece Compoſ'd by Mr. Lillie.</l>
+               <l>Theſe and ſome more I have, yet none will buy</l>
+               <l>The famous Gew-gawes of <hi>Aſtrollogy.</hi>
+                  <note place="margin">Exit</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Next to him entr'd one whoſe active ſhape,</l>
+               <l>Had ſome aſſimulation with an <hi>Ape.</hi>
+               </l>
+               <l>On whom a Doctur (pleaſ'd with what he Spoke)</l>
+               <l>In curteſie, beſtow'd a velvet Cloke,</l>
+               <l>Which being metamorpheſ't to a Iacket</l>
+               <l>Under the thread-bare skirrs he brought a Pacquet,</l>
+               <l>With Medicables fraught; though ſome deny</l>
+               <l>To couple Phuiſick with <hi>Aſtrollogy.</hi>
+               </l>
+               <l>This man indee's the <hi>Viccar</hi> of St. <hi>Fools,</hi>
+               </l>
+               <l>Yet contradicts <hi>Phiſitions</hi> and the <hi>Schoolls,</hi>
+               </l>
+               <l>And with a handful of conceited knowledge.</l>
+               <l>Dare challenge all the Doctors in the Colledge:</l>
+               <l>Abſurdly and preſumptuouſly of late</l>
+               <l>Vſurp't the Pulpit, when intoxicate.</l>
+               <l>And now as Maſter of the Fair-place: this,</l>
+               <l>His worſhip utter'd with an Emphaſis,</l>
+               <l>What lack ye Gentlemen, come buy this <hi>Spell</hi>
+               </l>
+               <l>Twill fetch grand <hi>Pluto</hi> from the nether <hi>Hell.</hi>
+               </l>
+               <l>Buy this Conjuring Circle which of late</l>
+               <l>Preſerv'd th' Exorciſt, Tapers conſecrate</l>
+               <l>With Garments waſh't: bid money though but little,</l>
+               <l>For night coms on, and we muſt leave the <hi>Spittle.</hi>
+               </l>
+               <l>Oh, fie upon't, how theſe dull markets plague us,</l>
+               <l>Happy were I to ſpeak with Simon <hi>Magus.</hi>
+               </l>
+               <l>How well my Portage, would fit him to carry,</l>
+               <l>
+                  <pb n="7" facs="tcp:118140:4"/>And our brave Books repleate his Library.</l>
+            </lg>
+            <lg>
+               <l>Ther's much more in my Pack which I'le not ope,</l>
+               <l>Since my condition is ſo void of hope.</l>
+               <l>Her's my laſt work, <hi>Cataſtrophe Magnatum,</hi>
+               </l>
+               <l>And her's <hi>Receits</hi> are ſealed with <hi>Probatum.</hi>
+               </l>
+               <l>Her's a Fools Cap lin'd with a <hi>Knaviſh</hi> brain,</l>
+               <l>And <hi>Cripſies Riddles,</hi> but 'tis all in vain.</l>
+               <l>Wherefore I am reſolv'd to ſmoke my Noſe,</l>
+               <l>Then ſtraight way to the Fuddling-School he goes.</l>
+               <l>Where you may finde him ſucking when he liſt,</l>
+               <l>The fuming Pipe, or play the Organiſt.</l>
+            </lg>
+            <lg>
+               <l>Theſe two were chief, but yet annother came,</l>
+               <l>Of great eſteem, whom I forbear to name,</l>
+               <l>A man well known, whoſe face would fright a Raſor</l>
+               <l>He much reſembled ſtern-lookt <hi>Abbumaſer.</hi>
+               </l>
+               <l>Crowding into the middeſt of the throng</l>
+               <l>Cries out, who is it that hath done us wrong.</l>
+               <l>Unluckey ſtarrs, that would not let us know,</l>
+               <l>The neere approach of our ſad overthrow.</l>
+               <l>But in revenge thereof I meane to ſell,</l>
+               <l>The twelve fair <hi>Houſes</hi> where the <hi>Plannets</hi> dwell.</l>
+               <l>I'le ſell the whole reverſion of my pack,</l>
+               <l>Who buyes theſe twelve Signes of the <hi>Zodiak.</hi>
+               </l>
+               <l>Beſides each years Predictive <hi>Almanack.</hi>
+               </l>
+               <l>My treaſure far exceeds the Golden Feece,</l>
+               <l>And her's good <hi>Fortunes</hi> ſould for pence a peece.</l>
+               <l>Nay more! I have the ſtarry Globe! See heere,</l>
+               <l>Will this not tempt you; a Celeſtiall <hi>Spheare.</hi>
+               </l>
+               <l>
+                  <pb n="8" facs="tcp:118140:5"/>Me-thinks 'tis ſtrange the ſpangles of the Sky,</l>
+               <l>Are to be ſould, and yet ther's none will buy.</l>
+            </lg>
+            <lg>
+               <l>This ſaid: as all the reſt had don before,</l>
+               <l>He truſt his Pack, put up, and was ſeen no more.</l>
+               <l>Within the Fair-place, though to tell you plain,</l>
+               <l>The man <hi>I</hi> think, lives now in Creed-church Lane</l>
+            </lg>
+            <lg>
+               <l>Thoſe were the Grandees, but a number more,</l>
+               <l>(Whom <hi>I</hi> forbeare to mention) brought their ſtore,</l>
+               <l>To this great Fair, and every man was glad,</l>
+               <l>To ſell thoſe ſimple whimſies which he had.</l>
+               <l>But none would buy, wherefore they left the faire</l>
+               <l>While peoples ſhouts, might ſeeme to rent the aire.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>This the World's great Moon Calfe Di'd</hi>
+               </l>
+               <l>
+                  <hi>Being in the hight of pride.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
